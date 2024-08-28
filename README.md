@@ -15,17 +15,17 @@ Download the mod and place it in the mods folder of your Minecraft installation 
 
 **COMMANDS**
 
-**/rp creategroup <name> **- Create a new respawn point group.
+**/rp creategroup <name>** - Create a new respawn point group.
 
-**/rp deletegroup <name> **- Delete an existing respawn point group.
+**/rp deletegroup <name>** - Delete an existing respawn point group.
 
-**/rp addtogroup <name> **- Add the current player's position to the specified group.
+**/rp addtogroup <name>** - Add the current player's position to the specified group.
 
-**/rp listgroups **- Show a list of all existing groups.
+**/rp listgroups** - Show a list of all existing groups.
 
-**/rp setactivegroup <name> **- Set active group for respawning.
+**/rp setactivegroup <name>** - Set active group for respawning.
 
-**/rp respawn **- Force respawn a player at a random point from the active group.
+**/rp respawn** - Force respawn a player at a random point from the active group.
 
 **WORK IN PROGRESS**
 
