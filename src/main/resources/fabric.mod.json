@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "respawnpoints",
+	"version": "${version}",
+	"name": "RespawnPoints",
+	"description": "Set custom respawn points for your survival world or pvp-server!",
+	"authors": [
+		"k1r1enko"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/respawnpoints/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.k1r1enko.shootersuite.respawnpoints.RespawnPoints"
+		]
+	},
+	"mixins": [
+		"respawnpoints.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
