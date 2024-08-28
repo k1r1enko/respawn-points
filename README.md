@@ -19,6 +19,8 @@ Download the mod and place it in the mods folder of your Minecraft installation 
 
 **/rp deletegroup <name>** - Delete an existing respawn point group.
 
+**/rp setpoint** - Set current block underneath the player as highlighted.
+
 **/rp addtogroup <name>** - Add the current player's position to the specified group.
 
 **/rp listgroups** - Show a list of all existing groups.
