@@ -31,10 +31,10 @@ Download the mod and place it in the mods folder of your Minecraft installation 
 
 **WORK IN PROGRESS**
 
-Possibility to use commands only by server operators.
-Integration of command permissions into Essentials.
-Optional: selection of active group for individual players.
-Saving mod data in a separate config file.
+- Possibility to use commands only by server operators.
+- Integration of command permissions into Essentials.
+- Optional: selection of active group for individual players.
+- Saving mod data in a separate config file.
 
 **LICENCE**
 
